@@ -4,8 +4,8 @@
 
 ### Day 1 
 ---
-- **Find the Duplicate Number**
+- **Find the Duplicate Number :**
 Solved under TC: O(N) SC: O(1)
 
-- **Sort Colours**
+- **Sort Colours :**
 Solved under TC : O(N) SC: O(1)
